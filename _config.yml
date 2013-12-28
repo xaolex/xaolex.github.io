@@ -5,12 +5,15 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
+# by xa
+encoding: utf-8
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : Xaolex
-tagline: Do Something.
-author : Xaolex
+tagline : Do Something.
+author : 
   name : Xaolex
   email : xaolex@gmail.com
   github : Xaolex
@@ -82,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : xaolexgithubio
     livefyre :
       site_id : 123
     intensedebate :
