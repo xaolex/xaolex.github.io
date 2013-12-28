@@ -10,7 +10,7 @@ tags: [jekyll, bootstrap]
 
 GitHub相信大家都不会陌生，号称程序员的Facebook，许多知名的开源项目，例如Bootstrap、Jekyll，都托管在这个网站上面。
 
-今天，我会给大家介绍自己如何利用GitHub Pages和Jekyll Bootstrap搭建博客。基于以上主题，我认为你已经有GitHub经验，所以不会详细介绍Git的安装和GitHub的托管过程。
+今天，我会给大家介绍自己如何利用GitHub Pages和Jekyll Bootstrap搭建博客。基于以上主题，我认为你已经有使用GitHub经验，所以不会详细介绍Git的安装和GitHub的托管过程。
 
 
 ## GitHub Pages和Jekyll Bootstrap简介
@@ -54,14 +54,12 @@ gem install jekyll
 gem install rdiscount
 </code></pre>
 	
-* 成功之后可以通过jekyll -v来查看是否安装成功，通过jekyll --server来启动服务器。	
-
-不过有几点需要注意的：
+成功之后可以通过jekyll -v来查看是否安装成功，通过jekyll --server来启动服务器。不过有几点需要注意：
 
 * 由于Jekyll项目默认是ANSI编码，所以需要在_config.yml里面配置encoding: utf-8，另外，如果有中文的文件注意编码必须是UTF-8格式。
 * 由于网络的原因可能会提示出错，只要把ruby下载的cache目录所有的文件都删除，类似c:/ruby/lib/ruby/gems/1.8/cache这样的目录（根据你自己的版本推算），再重新安装就好了。
 * 如果是老的版本还需要添加环境变量，请自行谷歌之。
-* 还有一点，服务器地址并不是提示的http://0.0.0.0:4000，而是http://127.0.0.1:4000。
+* 还有一点，本地请求地址并不是提示的http://0.0.0.0:4000，而是http://127.0.0.1:4000。
 
 
 ## 建立GitHub Pages

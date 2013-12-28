@@ -8,10 +8,10 @@ tags: [jekyll, bootstrap]
 
 ## 前言
 
-这些资源都是我在搭建本博客参考过的文章，对我帮助很大，所以记录下来和分享给大家，希望对你有帮助。
+这些资源都是我在搭建本博客参考过的文章，对我帮助很大，所以记录下来并且分享给大家，希望对你有帮助。
 
 
-### 博客资源
+## 博客资源
 
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
@@ -29,6 +29,8 @@ tags: [jekyll, bootstrap]
 [通过GitHub Pages建立个人站点（详细步骤）](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
 
 [像黑客一样写博客——Jekyll入门](http://www.soimort.org/posts/101/)
+
+[Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)
 
 [用Jekyll构建静态网站](http://yanping.me/cn/blog/2011/12/15/building-static-sites-with-jekyll/)
 
