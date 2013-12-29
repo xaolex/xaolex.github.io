@@ -79,7 +79,7 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
   # by xaolex
-  about_path: /about.html
+  about_path: /z_about.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
