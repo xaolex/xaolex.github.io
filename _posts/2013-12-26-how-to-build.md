@@ -54,7 +54,7 @@ gem install jekyll
 gem install rdiscount
 </code></pre>
 	
-成功之后可以通过jekyll -v来查看是否安装成功，通过jekyll --server来启动服务器。不过有几点需要注意：
+成功之后可以通过`jekyll -v`来查看是否安装成功，通过`jekyll serve`来启动服务器。不过有几点需要注意：
 
 * 由于Jekyll项目默认是ANSI编码，所以需要在_config.yml里面配置encoding: utf-8，另外，如果有中文的文件注意编码必须是UTF-8格式。
 * 由于网络的原因可能会提示出错，只要把ruby下载的cache目录所有的文件都删除，类似c:/ruby/lib/ruby/gems/1.8/cache这样的目录（根据你自己的版本推算），再重新安装就好了。

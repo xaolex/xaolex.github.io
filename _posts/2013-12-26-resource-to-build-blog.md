@@ -60,3 +60,5 @@ tags: [jekyll, bootstrap]
 供快速入门：[怎样使用Markdown](http://www.ituring.com.cn/article/23)
 
 Markdown文档转换应用：[Dingus](http://daringfireball.net/projects/markdown/dingus)
+
+Liquid入门：[Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)

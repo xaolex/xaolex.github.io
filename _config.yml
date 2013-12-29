@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
-# by xa
+# by xaolex
 encoding: utf-8
 markdown: rdiscount
 
@@ -78,6 +78,8 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  # by xaolex
+  about_path: /about.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
