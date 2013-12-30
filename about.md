@@ -3,7 +3,7 @@ layout: page
 title: 关于
 header: Post About
 tagline: Xaolex
-group: navigation
+group: lastnav
 ---
 {% include JB/setup %}
 

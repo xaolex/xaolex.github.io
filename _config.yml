@@ -76,7 +76,7 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   pages_path : /pages.html
-  about_path: /z_about.html
+  about_path: /about.html
   atom_path : /atom.xml
   rss_path : /rss.xml
 
