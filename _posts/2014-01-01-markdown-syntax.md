@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown语法笔记
-category: JekyllBootstrap
-tags: [test]
+category: Markdown
+tags: [markdown]
 ---
 {% include JB/setup %}
 
