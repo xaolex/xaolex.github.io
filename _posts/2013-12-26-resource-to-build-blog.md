@@ -16,6 +16,7 @@ tags: [jekyll, bootstrap]
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
 [使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
+
 [用git和jekyll来发表文章,并同步到github](http://liufeiyu.cn/github/2012/12/04/how-to-use-git-to-post-articles.html)
 
 [Jekyll建站之旅](http://calefy.org/2012/03/03/my-process-of-building-jekyll-blog.html)
